@@ -1,0 +1,89 @@
+[{
+  "id":2561 ,
+  "nome": "T'Challa",
+  "codinome": "Pantera Negra",	
+  "ocupacao":"Rei de Wakanda, Cientista",		
+  "sexo": "Masculino",
+  "cidade": "Wakanda",
+  "imagem": "https://lh3.googleusercontent.com/proxy/5QPLPOAzbshhcs85p0fdnyVo3lgi_52V4yradXXkfgrdncZAAyZil_Ljy55UbNKO3ALhSanJaT67lxnUJh1yY754G-0SG5WB-GBB9diZ-OicEvY2K9aDw-0HoCFbu6P9SThLi4p5JMlHb53bzuYVovMWygWgRzk"
+}, {
+  "id":2562 ,
+  "nome": "Tony Stark",
+  "codinome": "Homem de ferro",
+  "ocupacao":"Gênio, bilionário", 
+  "sexo": "Masculino",
+  "cidade": "Long Island, Nova York",
+  "imagem": "https://referencianerd.com/wp-content/uploads/2020/06/IronManSnapFunkoFeature.jpg"
+}, {
+  "id": 2563,
+  "nome": "Dr.Stephen Strange",
+  "codinome": "Dr.Estranho",
+  "ocupacao": "Mago Supremo, Ex-Neurocirurgião",
+  "sexo": "Masculino",
+  "cidade": "New York",
+  "imagem": "https://factotumcultural557916749.files.wordpress.com/2020/05/13-lic3a7c3b5es-do-budismo-no-filme-doutor-estranho.jpg"
+}, {
+  "id": 2564,
+  "nome": "Dr.Bruce Banner",
+  "codinome": "Hulk",
+  "ocupacao": "Físico",
+  "sexo": "Masculino",
+  "cidade": "Dayton, Ohio, Nova York",
+  "imagem": "https://amenteemaravilhosa.com.br/wp-content/uploads/2018/08/hulk.jpg"
+}, {
+  "id": 2565,
+  "nome": "Natasha",
+  "codinome": "Viuva Negra",
+  "ocupacao": "Agente Secreta, Ex-espiã",
+  "sexo": "Feminino",
+  "cidade": "Volgogrado, Rússia",
+  "imagem": "https://www.einerd.com.br/wp-content/uploads/2019/09/Vi%C3%BAva-Negra-capa.jpg"
+}, {
+  "id": 2566,
+  "nome": "Princesa Diana",
+  "codinome": "Mulher Maravilha",
+  "ocupacao": "Super heroína, Princesa, Agente de inteligência",
+  "sexo": "Feminino",
+  "cidade": "Themyscira, a Ilha Paraíso",
+  "imagem": "https://ogimg.infoglobo.com.br/in/21418687-833-e76/FT1086A/652/67782271_RGAtriz-Gal-Gadot-novo-filme-da-Mulher-Maravilha.jpg"
+}, {
+  "id": 2567,
+  "nome": "Thor Odinson",
+  "codinome": "Deus do Trovão",
+  "ocupacao": "Príncipe herdeiro de Asgard",
+  "sexo": "Masculino",
+  "cidade": "Asgard",
+  "imagem": "https://static1.purebreak.com.br/articles/6/42/37/6/@/197155-thor-chris-hemsworth-conta-porque-nao-diapo-3.jpg"
+}, {
+  "id": 2568,
+  "nome": "Loki Laufeyson",
+  "codinome": "Deus da Trapaça",
+  "ocupacao": "Espião Asgardiano",
+  "sexo": "Masculino",
+  "cidade": "Jotunheim",
+  "imagem": "https://metropolitanafm.com.br/wp-content/uploads/2020/02/loki.jpg"
+}, {
+  "id": 2569,
+  "nome": "Steve Rogers",
+  "codinome": "Capitão America",
+  "ocupacao": "Capitão",
+  "sexo": "Masculino",
+  "cidade": "Lower East Side, Nova York",
+  "imagem": "https://ovicio.com.br/wp-content/uploads/2020/03/20200318-captain-america-thors-hammer-avengers-endgame-1572944239-1200x675.jpg"
+}, {
+  "id": 2570,
+  "nome": "Thanos de Titã",
+  "codinome": "Thanos, O Titã Louco",
+  "ocupacao": "Conquistador, Rei de Saturno",
+  "sexo": "Masculino",
+  "cidade": "Titã, Saturno",
+  "imagem": "https://www.otempo.com.br/image/contentid/policy:1.2173652:1556296235/google-let-users-play-with-thanos-destructive-power.jpg?f=3x2&w=1280&$p$f$w=2a58553"
+}, {
+  "id": 2571,
+  "nome": "Carol Danvers",
+  "codinome": "Capitã Marvel",
+  "ocupacao": "Ex-piloto e Agente da CIA",
+  "sexo": "Feminino",
+  "cidade": "Boston, Massachussets",
+  "imagem": "https://cosmonerd.com.br//uploads/2019/04/capit%C3%A3-marvel-vingadores-ultimato-brie-larson.jpg"
+}]
